@@ -1,39 +1,38 @@
-{
-  
+{  
   "users": [
     {
       "email": "contacto@manolospizza.com",
-      "password": "$2a$10$eYN.DWgSYukfQftyvuBCzut691/OWvcgh7QnaNuXCM9x9D.NNcwzK",
+      "password": "abc123",
       "id": 1,
       "storeId": 1
     },
     {
       "email": "contacto@bordadosrosita.com",
-      "password": "$2a$10$FaaB/hCojQDqaF6UWAR8OO.Jct/W/DklFimjHCVW1OTq.gfeE2vxm",
+      "password": "abc123",
       "id": 2,
       "storeId": 2
     },
     {
       "email": "contacto@vforvegan.com",
-      "password": "$2a$10$5ojiScUiIfGrwOrEPz/cL.6QoDLMQMSevlBBXuatZDjbAz9CNee3y",
+      "password": "abc123",
       "id": 3,
       "storeId": 3
     },
     {
       "email": "contacto@cactus.com",
-      "password": "$2a$10$kVS7H0l83f12Wvu7r0XwdehRQhYx4U20pWivClyVt4tf/2u05vc02",
+      "password": "abc123",
       "id": 4,
       "storeId": 4
     },
     {
       "email": "contacto@huertilizate.com",
-      "password": "$2a$10$QNXpOayUgfXkgRy65qhRz.UGkhOM.OS4HpmeWFYGIR0TdXFa9PMpO",
+      "password": "abc123",
       "id": 5,
       "storeId": 5
     },
     {
       "email": "contacto@taller.com",
-      "password": "$2a$10$LxoaELCo38rnmKeXoKJk4utUphI3utVZzMTDPadOOExWhH9IqsMtO",
+      "password": "abc123",
       "id": 6,
       "storeId": 6
     }
@@ -80,7 +79,7 @@
     {
       "id": 1,
       "product_name": "Pizza 4 Estaciones",
-      "description": "Pizza  tamaño extra grande, tiene aceitunas, pepperoni, champignones, jamón y extra queso",
+      "description": "Tamaño extra grande, aceitunas, pepperoni, champignones, jamón y extra queso",
       "price": "15000",
       "stock": "A pedido",
       "product_img": "https://winnys.cl/wp-content/uploads/2020/07/4ESTACIONES-min.png",
@@ -98,7 +97,7 @@
     {
       "id": 3,
       "product_name": "Pizza Española",
-      "description": "Pizza familiar, tiene chorizo, jamón, tomate, pimentón y aceitunas",
+      "description": "Pizza familiar, con chorizo, jamón, tomate, pimentón y aceitunas",
       "price": "12000",
       "stock": "A pedido",
       "product_img": "https://www.pedidosya.cl/blog/wp-content/uploads/sites/2/2018/05/pizza-espanola.jpg",
@@ -215,7 +214,7 @@
     {
       "id": 16,
       "product_name": "Cajon de Cultivo",
-      "description": "Cajón de cultivo 90x45x45 de madera, capacidad 70 litros",
+      "description": "Cajón de cultivo 90x45x45, capacidad 70 litros",
       "price": 52890,
       "stock": 5,
       "product_img": "https://http2.mlstatic.com/D_NQ_NP_889208-MLC42658449409_072020-O.webp",
@@ -238,82 +237,7 @@
       "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
       "storeId": 6,
       "id": 21
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app",
-        "description": "creando",
-        "price": "8000",
-        "stock": "a pedido",
-        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
-      },
-      "id": 22
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app2",
-        "description": "creando",
-        "price": "8000",
-        "stock": "a pedido",
-        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
-      },
-      "id": 23
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app2",
-        "description": "creando",
-        "price": "8000",
-        "stock": "a pedido",
-        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
-      },
-      "id": 24
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app",
-        "description": "prueba",
-        "price": "8000",
-        "stock": "a pedido",
-        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
-      },
-      "id": 25
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app",
-        "description": "prueba con el storeId",
-        "price": "8000",
-        "stock": "a pedido",
-        "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg"
-      },
-      "id": 26
-    },
-    {
-      "product_name": {
-        "product_name": "prueba desde app",
-        "description": "prueba otra el sotreid",
-        "price": "2000",
-        "stock": "1",
-        "product_img": ""
-      },
-      "id": 27
-    },
-    {
-      "product_name": "ultima prueba",
-      "description": "ddd",
-      "price": "8000",
-      "stock": "a pedido",
-      "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
-      "id": 30
-    },
-    {
-      "product_name": "ultima prueba",
-      "description": "ddd",
-      "price": "8000",
-      "stock": "a pedido",
-      "product_img": "https://www.artesaniasdelvolcan.cl/wp-content/uploads/2020/08/Set-plato-32x22cm-y-pocillos-10-cm-scaled.jpeg",
-      "id": 31
     }
+
   ]
 }
